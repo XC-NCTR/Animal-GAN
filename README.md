@@ -1,5 +1,6 @@
 # AnimalGAN: A Generative Adversarial Network Model Alternative to Animal Studies for Clinical Pathology Assessment
 Animal studies are unavoidable in evaluating chemical and drug safety. Generative Adversarial Networks (GANs) can generate synthetic animal data by learning from the legacy animal study results, thus may serve as an alternative approach to assess untested chemicals. AnimalGAN, a GAN-based model was developed to simulate clinical pathology measurements.
+[**PLEASE NOTE**]The improved and updated version, along with the environment setup information, can be found at https://github.com/XC-NCTR/AnimalGAN.
 ## Python library requirements:
 python=3.8.5<br>
 pytorch=1.4.0<br>
